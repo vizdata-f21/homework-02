@@ -70,7 +70,8 @@ prose, the code, and all plots.
         information in the form of a bar graph. And as an additional
         challenge, imagine you’re working for the state of Connecticut,
         so highlight that bar corresponding to that state in some way.
-        Write a sentence or two describing
+        Write a sentence or two describing why you chose to highlight
+        the Connecticut info the way you did.
 
 3.  **Foreign Connected PACs.** Only American citizens (and immigrants
     with green cards) can contribute to federal politics, but the
