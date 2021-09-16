@@ -8,7 +8,7 @@ you’re including a description and/or interpretation, use full
 sentences. Make a commit at least after finishing each exercise, or
 better yet, more frequently. Push your work regularly to GitHub. Once
 you’re done, inspect your GitHub repo to make sure it has all the
-components you want to submit in the `hw-02.md` file, including the
+components you want to submit in the `homework-02.md` file, including the
 prose, the code, and all plots.
 
 1.  **A new day, a new plot, a new geom.** The goal of this exercise is
