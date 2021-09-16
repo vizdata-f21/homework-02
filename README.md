@@ -19,7 +19,9 @@ prose, the code, and all plots.
     package to make a ridge plot of of Airbnb review scores of Edinburgh
     neighborhoods. The neighborhoods should be ordered by their median
     review scores. The data can be found in the **dsbox** package, and
-    it’s called `edibnb`.
+    it’s called `edibnb`. Also include an interpretation for your visualization. You
+    should review feedback from your Homework 1 to make sure you capture
+    anything you may have missed previously.
 
     *(Note:* This is not a geom we introduced in class, so seeing an
     example of it in action will be helpful. Read the package README at
