@@ -85,7 +85,7 @@ prose, the code, and all plots.
 
     ``` r
     # get a list of files with "Foreign Connected PAC" in their names
-    list_of_files <- dir_ls(path = here::here("keys/hw-02/data"), regexp = "Foreign Connected PAC")
+    list_of_files <- dir_ls(path = "data", regexp = "Foreign Connected PAC")
 
     # read all files and row bind them
     # keeping track of the file name in a new column called year
