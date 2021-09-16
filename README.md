@@ -92,14 +92,6 @@ prose, the code, and all plots.
     pac <- read_csv(list_of_files, id = "year")
     ```
 
-        ## Rows: 2184 Columns: 6
-        ## ── Column specification ────────────────────────────────────────────────────────
-        ## Delimiter: ","
-        ## chr (5): PAC Name (Affiliate), Country of Origin/Parent Company, Total, Dems...
-        ## 
-        ## ℹ Use `spec()` to retrieve the full column specification for this data.
-        ## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
-
     The ultimate goal of this exercise is to recreate yet another plot.
     But there is a nontrivial amount of data wrangling and tidying that
     needs to happen before you can do that. Below are the steps you
